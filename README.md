@@ -3,7 +3,7 @@ Molecular design using signal processing and machine learning
 
 Accumulation of molecular data obtained from quantum mechanics (QM) theories such as density functional theory (DFTQM) make it possible for machine learning (ML) to accelerate the discovery of new molecules, drugs, and materials. Models that combine QM with ML (QM↔ML) have been very effective in delivering the precision of QM at the high speed of ML.
 
-In this project, we are integrating well-known signal processing (SP) techniques (i.e. short time Fourier transform, continuous wavelet analysis, Wigner-Ville distribution, etc.) in the QM↔ML pipeline. The new QM↔SP↔ML pipeline represent a powerful machinery that can be used for representation, visualization, forward and inverse design of molecules.
+In this project, we are integrating well-known signal processing (SP) techniques (i.e. short time Fourier transform, continuous wavelet analysis, Wigner-Ville distribution, etc.) in the QM↔ML pipeline. The new QM↔SP↔ML pipeline represents a powerful machinery that can be used for representation, visualization, forward and inverse design of molecules.
 
 VISUALIZATION - The time-frequency-like (TFL) representation of molecules encodes their structural, geometric, energetic, electronic and thermodynamic properties.
 
