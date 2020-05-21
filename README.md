@@ -27,6 +27,6 @@ In all, in this project, preliminary results show that the QM↔SP↔ML model re
 
 1- A. B. Tchagang and J. J. Valdes, “Discrete Fourier Transform Improves the Prediction of the Electronic Properties of Molecules in Quantum Machine Learning,” 2019 IEEE Canadian Conference of Electrical and Computer Engineering (CCECE), 2019.
 
-2- A. B. Tchagang, J. J. Valdes, and A. H. Tewfik "Molecular Design Using Signal Processing and Machine Learning: Time-Frequency-like Representation and Forward Design", arXiv:2004.10091 [physics.chem-ph], 2020, https://arxiv.org/abs/2004.10091
+2- A. B. Tchagang, J. J. Valdes, and A. H. Tewfik "Molecular Design Using Signal Processing and Machine Learning: Time-Frequency-like Representation and Forward Design", arXiv:2004.10091 [physics.chem-ph], 2020, https://arxiv.org/abs/2004.10091, under review IEEE Transactions on Signal Processing
 
 3- A. B. Tchagang, et al., "Molecular Design Using Signal Processing and Machine Learning: Inverse Design", Under Preparation, 2020.
